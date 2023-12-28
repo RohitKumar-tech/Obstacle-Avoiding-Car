@@ -37,7 +37,7 @@ This project showcases an obstacle-avoiding car that autonomously navigates its 
 
 ## Circuit Diagram
 
-<kbd>![Circuit Diagram](./images/image.jpeg)</kbd>
+<kbd>![Circuit Diagram](./Circuit Diagram.jpg)</kbd>
 
 ## Setup Instructions
 
