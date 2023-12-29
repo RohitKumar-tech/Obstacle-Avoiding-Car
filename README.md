@@ -6,7 +6,7 @@
 
 This project showcases an obstacle-avoiding car that autonomously navigates its environment using sensors to detect obstacles. The car's movements are controlled by a microcontroller, and it is designed to intelligently avoid obstacles in its path.
 
-![Obstacle Avoiding Car](link-to-image-or-gif)
+![Obstacle Avoiding Car](./Obstacle_avoiding_car.jpeg)
 
 ## Table of Contents
 
